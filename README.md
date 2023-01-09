@@ -28,11 +28,11 @@ volume_vector <- function(r) {
 volume_vector(r)
 
 ```
-Code will be saved to a file called **"foo.R"** and published to the GitHub Repository called **"st2195_assignment_4"**
+Code will be saved to a file called ***"foo.R"*** and published to the GitHub Repository called ***"st2195_assignment_4"***
 
-Sample Output of the code run:
+*Sample output of the code run:*
 
 >volume_vector(r)\
 [1] "33.5103216382911" \
 [1] "268.082573106329" \
-[1] "2144.66058485063" \
+[1] "2144.66058485063" 
